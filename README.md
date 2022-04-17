@@ -1,4 +1,5 @@
 Name: Matthew Comeau
+NOTE: Github cant upload files greater then 100Mb so this excludes the map .glb asset
 
 Build URL:
 
