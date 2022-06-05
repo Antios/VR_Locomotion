@@ -1,5 +1,6 @@
 Name: Matthew Comeau
-NOTE: Github cant upload files greater then 100Mb so this excludes the map .glb asset
+NOTE: Github cant upload files greater then 100Mb so this excludes the map .glb asset however the locomotion logic itself remains so all you
+would need to do is download your own map asset.
 
 Build URL:
 
